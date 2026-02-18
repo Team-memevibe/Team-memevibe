@@ -8,7 +8,7 @@
 
 Team Memevibe is a dynamic development collective focused on creating practical, user-friendly blockchain solutions that bridge the gap between cryptocurrency and everyday life. We specialize in building decentralized applications (dApps) that make crypto accessible and useful for everyone, especially in emerging markets.
 
-Our mission is to empower people to use cryptocurrency for their daily needs — from paying bills to sharing memes — with simplicity, security, and speed.
+Our mission is to empower people to use cryptocurrency for their daily needs, from paying bills to sharing memes, with simplicity, security, and speed.
 
 ---
 
@@ -17,7 +17,7 @@ Our mission is to empower people to use cryptocurrency for their daily needs —
 ### 🔋 [Paycrypt](https://github.com/Team-memevibe/Paycrypt) ⭐ Flagship Project
 **A crypto utility payment platform**
 
-Convert cryptocurrency into everyday services with ease. Buy airtime, pay electricity bills, renew TV subscriptions, and purchase data bundles from major providers — all using crypto.
+Convert cryptocurrency into everyday services with ease. Buy airtime, pay electricity bills, renew TV subscriptions, and purchase data bundles from major providers, all using crypto.
 
 - **Status**: ✅ Live in Production
 - **Website**: [paycrypt.org](https://www.paycrypt.org/)
@@ -33,19 +33,19 @@ Convert cryptocurrency into everyday services with ease. Buy airtime, pay electr
 ### 📱 [Paycrypt Mini App](https://github.com/Team-memevibe/paycrypt-miniapp)
 **Telegram mini-app for Paycrypt**
 
-A lightweight version of Paycrypt designed for Telegram users, making crypto payments even more accessible.
+A lightweight version of Paycrypt designed for Faracaster users, making crypto payments even more accessible.
 
 - **Tech Stack**: TypeScript
-- **Platform**: Telegram Mini Apps
+- **Platform**: FARCASTER Mini Apps
 - **Status**: Active Development
 
 ### 🎭 [MemeVibe](https://github.com/Team-memevibe/MemeVibe)
-**Cast memes from Frame directly on Warpcast**
+**Cast memes from Frame directly on Farcaster**
 
-A fun web3 application that lets users create and share memes on the Farcaster network (Warpcast).
+A fun web3 application that lets users create and share memes on the Farcaster .
 
 - **Tech Stack**: TypeScript
-- **Platform**: Farcaster Frames
+- **Platform**: Farcaster mini apps
 - **Status**: Live
 
 ### 🛠️ [Admin Board](https://github.com/Team-memevibe/Admin-board)
@@ -130,7 +130,6 @@ Interested in collaborating or integrating our solutions?
 
 ### Current Focus
 - Expanding Paycrypt service coverage
-- Mobile app development (iOS & Android)
 - Enhanced user analytics and reporting
 - Partnership expansion with more service providers
 
